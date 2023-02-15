@@ -87,8 +87,8 @@ We don't own `asbuild` or TaskCluster (those belong to the Release Engineering
 and TaskCluster teams, respectively), although we occasionally help on those
 projects.
 
-We don't write unit tests run in the test harnesses we own; developers are best
-suited and responsible for that.
+> **Warning**: We don't write unit tests run in the test harnesses we own;
+> developers are best suited and responsible for that.
 
 We generally don't write functional tests run in the harnesses we own, although
 we may help out here from time to time, mainly when this is done in conjunction
