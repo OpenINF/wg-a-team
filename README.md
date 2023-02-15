@@ -287,6 +287,6 @@ published under [CC BY 4.0].
 [matrix-url]: https://matrix.to/#/#openinf:matrix.org 'You&apos;re invited to talk on Matrix'
 [moz-policies]:
   https://www.mozilla.org/en-US/foundation/licensing/
-  "Mozilla Licensing Policies"
+  'Mozilla Licensing Policies'
 [prettier-badge]: https://img.shields.io/badge/code_style-Prettier-ff69b4.svg?logo=prettier 'Code Style: Prettier'
 [prettier-url]: https://prettier.io/playground 'Code Style: Prettier'
