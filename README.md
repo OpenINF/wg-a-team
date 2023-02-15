@@ -3,7 +3,69 @@ See: https://docs.github.com/get-started/writing-on-github
 Spec: https://github.github.com/gfm
 -->
 
-<!-- Homepage modeled after https://wiki.mozilla.org/EngineeringProductivity -->
+<div align="center">
+
+# @OpenINF/wg-a-team
+
+The Engineering Productivity team, a.k.a. the A-Team
+
+<br />
+
+[!['DeepScan grade'][deepscan-badge]][deepscan-url]
+[!['License: Attribution 4.0 International (CC BY 4.0)'][license-badge--shields]][license-badge-url]
+
+</div>
+
+<br />
+
+<details id="platform--node-js-lts">
+	<summary>
+		<a
+			href="#platform--node-js-lts"
+			title="Platform: Node.js LTS"
+		>
+			<img
+				src="https://img.shields.io/badge/Node.js-LTS-black?logo=Node.js&logoColor=lightgreen&color=2a2a2a&labelColor=black"
+				alt="Platform: Node.js LTS"
+			/>
+		</a>
+	</summary>
+	<div align="left"><br />
+		<a
+			target="_blank"
+			title="Node.js release schedule"
+			href="https://github.com/nodejs/release#release-schedule"
+		>
+			<strong>Supported Node.js Environments</strong>
+		</a><br /><br />
+
+- [ ] v4：Argon (Ar)
+- [ ] v6：Boron (B)
+- [ ] v8：Carbon (C)
+- [ ] v10：Dubnium (Db)
+- [ ] v12：Erbium (Er)
+- [x] v14：Fermium (Fm)
+- [x] v16：Gallium (Ga)
+- [x] v18：Hydrogen (H)
+<!-- TODO
+- [x] v20: Iron (Fe) -->
+
+</div></details>
+
+<br />
+
+<div align="center">
+
+[![Code Style: Prettier][prettier-badge]][prettier-url]
+[![Commit Style: Conventional Commits][conventional-commits-badge]][conventional-commits-url]
+[![Active Issues: DeepSource][deepsource-badge]][deepsource-url]
+[![Chat on Matrix][matrix-badge--shields]][matrix-url]
+
+</div>
+
+<br />
+
+---
 
 > **Note**: As of 2023/02/14, the Engineering Productivity group, a.k.a. the
 > A-Team, is no longer a discrete team. Its operations are split between the new
