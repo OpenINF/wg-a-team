@@ -81,7 +81,7 @@ lists below represent the general scope of our activities.
   code coverage
 -->
 
-## What We Don't Work On
+## What We Do Not Work On
 
 We don't own [asbuild][], [TaskCluster][], or [depot_tools][] (those belong to
 [our Release Engineering team][], [the Mozilla TaskCluster team][], and few
