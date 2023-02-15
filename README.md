@@ -140,6 +140,33 @@ around.
 
 If you have questions or want to sign up, please find us on Matrix.
 
+<br /><br />
+
+---
+
+<br />
+
+<div align="center">
+
+## Show Your Support
+
+<!-- Give a ⭐️ if this project helped you! -->
+
+If you like the project or want to bookmark it, [give it a star ⭐️]; it will
+greatly encourage us.
+
+<br /><br />
+
+&copy; The OpenINF Authors
+
+<br />
+
+<a title="The OpenINF website" href="https://open.inf.is" rel="author">
+  <img alt="The OpenINF logo" height="32px" width="32px" src="https://raw.githubusercontent.com/openinf/openinf.github.io/live/logo.svg?sanitize=true" />
+</a>
+
+</div>
+
 [**@OpenINF**]: https://github.com/OpenINF
 
 <!-- 3P Tools -->
