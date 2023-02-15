@@ -67,11 +67,12 @@ _The Engineering Productivity team, a.k.a. the A-Team_
 
 ---
 
-> **Note**: As of 2023/02/14, the Engineering Productivity group, a.k.a. the
-> A-Team, is no longer a discrete team. Its operations are split between the new
+> **Note**
+> As of 2023-02-14, _the Engineering Productivity team, a.k.a. the A-Team_,
+> is no longer a discrete team. Its operations are split between the new
 > Product Integrity WG meta-team and Engineering Operations. For now, many
 > discussions around the test and automation work that was formerly under
-> Engineering Productivity may continue in Matrix channels.
+> Engineering Productivity may continue in our Matrix channel.
 
 # The Engineering Productivity Team
 
