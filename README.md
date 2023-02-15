@@ -83,8 +83,9 @@ lists below represent the general scope of our activities.
 
 ## What We Don't Work On
 
-We don't own `asbuild` or TaskCluster (those belong to the Release Engineering
-and TaskCluster teams, respectively), although we occasionally help on those
+We don't own [asbuild][], [TaskCluster][], or [depot_tools][] (those belong to
+[our Release Engineering team][], [the Mozilla TaskCluster team][], and [the
+Chromium project][], respectively), although we occasionally help with those
 projects.
 
 > **Warning**: We don't write unit tests run in the test harnesses we own;
