@@ -256,10 +256,10 @@ published under [CC BY 4.0].
 [A-team bootcamp]: https://ateam-bootcamp.readthedocs.io/en/latest
 [Existing Project]: https://github.com/OpenINF/wg-a-team/wiki/Projects
 [Quarter of Contribution]:
-  https://github.com/OpenINF/wg-a-team/wiki/Auto-tools#quarter-of-contribution
+  https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#quarter-of-contribution
 [Release and Productivity meta-team]: https://github.com/OpenINF/wg-release-n-productiv
 [skills and areas]:
-  https://github.com/OpenINF/wg-a-team/wiki/Auto-tools#skills-and-areas
+  https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#skills-and-areas
 
 <!-- Readme template doc links -->
 [cc by icon]: ./doc/img/cc-by_icon.svg 'Attribution icon'
