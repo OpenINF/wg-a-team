@@ -7,7 +7,7 @@ Spec: https://github.github.com/gfm
 
 # @OpenINF/wg-a-team
 
-The Engineering Productivity team, a.k.a. the A-Team
+_The Engineering Productivity team, a.k.a. the A-Team_
 
 <br />
 
