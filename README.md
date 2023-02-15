@@ -5,19 +5,18 @@ Spec: https://github.github.com/gfm
 
 <!-- Homepage modeled after https://wiki.mozilla.org/EngineeringProductivity -->
 
-> **Note**: 
-> As of 2023/02/14, the Engineering Productivity group, a.k.a. the A-Team, is
-> no longer a discrete team. Its operations are split between the new Product
-> Integrity WG meta-team and Engineering Operations. For now, many discussions
-> around the test and automation work that was formerly under Engineering
-> Productivity may continue in Matrix channels.
+> **Note**: As of 2023/02/14, the Engineering Productivity group, a.k.a. the
+> A-Team, is no longer a discrete team. Its operations are split between the new
+> Product Integrity WG meta-team and Engineering Operations. For now, many
+> discussions around the test and automation work that was formerly under
+> Engineering Productivity may continue in Matrix channels.
 
 # The Engineering Productivity Team
 
-Welcome to the homepage of the Engineering Productivity group (called “the A-Team”
-for nostalgic reasons). Although formerly known as the Automation and Tools team,
-we sometimes still use the nickname “A-Team”, and you'll see A-Team references
-scattered around our codebases.
+Welcome to the homepage of the Engineering Productivity group (called “the
+A-Team” for nostalgic reasons). Although formerly known as the Automation and
+Tools team, we sometimes still use the nickname “A-Team”, and you’ll see A-Team
+references scattered around our codebases.
 
 We’re a group of programmers who develop and support a wide range of services,
 tools, and automation that serve the engineering teams at OpenINF, with a
@@ -26,9 +25,9 @@ part of the [Release and Productivity meta-team][].
 
 ## Our Mission
 
-The Engineering Productivity Team is a Swiss Army Knife of coders dedicated
-to improving the quality and productivity of engineering at OpenINF. Working
-with others in a responsive and agile manner, we strive to be a model of open
+The Engineering Productivity Team is a Swiss Army Knife of coders dedicated to
+improving the quality and productivity of engineering at OpenINF. Working with
+others in a responsive and agile manner, we strive to be a model of open
 development. We create, maintain, and extend a diverse array of sustainable
 tools and systems that make and deliver information on the quality of OpenINF’s
 products and enhance the impact and effectiveness of the OpenINF community.
@@ -36,16 +35,16 @@ products and enhance the impact and effectiveness of the OpenINF community.
 ## Connecting with the Team
 
 We’re a friendly bunch of people who are happy to help you; we want to hear
-about your ideas and your problems and what you think we could do to make your
-work more productive.
+about your ideas and your problems and what you think we could do to make you
+work more productively.
 
-See our Team Roster below for a list of folks on the team.
+See our team roster(s) below for a list of folks on “the A-Team”&hellip;
 
 <!--
-`ncu-team sync` updates the special "ncu-team-sync.team($org/$team)" comment
-blocks with a list of members under the specified team.
+`ncu-team sync` command updates the special >>ncu-team-sync.team($org/$team)<<
+comment blocks below with a list of members under the specified team.
 
-Refs: https://nodejs.github.io/node-core-utils/docs/ncu-team.html#synchronize-files-with-special-blocks
+See: https://nodejs.github.io/node-core-utils/docs/ncu-team.html#synchronize-files-with-special-blocks
 -->
 
 ### Collaborators in the A-Team
@@ -54,7 +53,7 @@ Refs: https://nodejs.github.io/node-core-utils/docs/ncu-team.html#synchronize-fi
 
 <!-- ncu-team-sync end -->
 
-### Bots in the [**@OpenINF**][] Org
+### Bots in the [**@OpenINF**][] Organization
 
 <!-- ncu-team-sync.team(OpenINF/bots) -->
 
@@ -69,7 +68,6 @@ We work on a range of things that will vary from quarter to quarter, but the
 lists below represent the general scope of our activities.
 
 <!-- (!) NOTE: These may need to be replaced.
-
 - **Services:** Bugzilla, MozReview, Autoland, Treeherder/Perfherder,
   OrangeFactor, hg.mozilla.org, git.mozilla.org, Pulse, ActiveData, Bugzilla ES,
   TestInformant, sheriffing of the tree
@@ -83,21 +81,19 @@ lists below represent the general scope of our activities.
 
 ## What We Do Not Work On
 
-We don't own [asbuild][], [TaskCluster][], or [depot_tools][] (those belong to
+We don’t own [asbuild][], [TaskCluster][], or [depot_tools][] (those belong to
 [our Release Engineering team][], [the Mozilla TaskCluster team][], and few
 select [owners in the Chromium project][], respectively), although we
 occasionally help with those projects as well.
 
-> **Warning**: We don't write unit tests run in the test harnesses we own;
-> developers are best suited and responsible for that.
-
-We generally don't write functional tests run in the harnesses we own, although
-we may help out here from time to time, mainly when this is done in conjunction
-with developing a new harness. Our interests here are empowering developers to
-write their own tests, but we sometimes contribute tests here as part of the
-bootstrapping process. Ultimately, as with unit tests, developers are best
-suited to writing functional tests and understanding overall test coverage and
-design.
+> **Warning**: We don’t write unit tests run in the test harnesses we own;
+> developers are best suited and responsible for that. We generally don’t write
+> functional tests run in the harnesses we own, although we may help out here
+> from time to time, mainly when this is done in conjunction with developing a
+> new harness. Our interests here are empowering developers to write their own
+> tests, but we sometimes contribute tests here as part of the bootstrapping
+> process. Ultimately, as with unit tests, developers are best suited to writing
+> functional tests and understanding overall test coverage and design.
 
 ## Meetings
 
@@ -114,7 +110,7 @@ out our project request form.
 
 For a list of projects that we own, see Project Central.
 
-Periodic team updates are posted to the \*-tooling mailing list.
+Periodic team updates are posted to the \*-auto-tooling mailing list.
 
 ## Getting Involved
 
@@ -125,35 +121,42 @@ OpenINF development. There are two great ways to help: joining an existing
 project or taking on one of our _starter_ projects to help you learn your way
 around.
 
-- [A-team bootcamp][]&#xFF1A;This covers the
-  basics of getting started as an A-Team contributor
+- [A-team bootcamp][]&#xFF1A;This covers the basics of getting started as an
+  A-Team contributor
 - [Quarter of Contribution][]&#xFF1A;Longer-running, scoped contributing
   opportunities with definite goals, mentors, and timelines
-- [Existing Project][]&#xFF1A;Look over our
-  [projects][] list and see if there is anything that you'd
-  like to help with
-- Good First Issues&#xFF1A;want a bug to try out? Find a few
-  issues labeled https://github.com/OpenINF/.github/labels/help%20wanted or
+- [Existing Project][]&#xFF1A;Look over our [projects][] list and see if there
+  is anything that you’d like to help with
+- Good First Issues&#xFF1A;want a bug to try out? Find a few issues labeled
+  https://github.com/OpenINF/.github/labels/help%20wanted or
   https://github.com/OpenINF/.github/labels/good%20first%20issue have been
   identified as desirable for community contribution. Feel free to work on
   <abbr title="Good First Issues">GFIs</abbr> even if not your first issue.
   - List of [all issues labeled _good first issue_][i-gfi]
   - List of [all issues labeled _help wanted_][i-help]
   - List of [all incomplete pull requests labeled _help wanted_][pr-help]
-- Check out the [skills and areas][] of the team to see how you can fit in
-  and help out!
+- Check out the [skills and areas][] of the team to see how you can fit in and
+  help out!
 
 If you have questions or want to sign up, please find us on Matrix.
 
 [**@OpenINF**]: https://github.com/OpenINF
+
+<!-- 3P Tools -->
+[asbuild]: https://github.com/OpenINF/openinf-asbuild
+[TaskCluster]: https://taskcluster.net
+[depot_tools]: https://commondatastorage.googleapis.com/chrome-infra-docs/flat/depot_tools/docs/html/depot_tools.html
+
+<!-- Misc. doc links -->
 [i-gfi]:
-	https://github.com/search?q=org%3Aopeninf+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+  https://github.com/search?q=org%3Aopeninf+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [i-help]:
-	https://github.com/search?q=org%3Aopeninf+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
+  https://github.com/search?q=org%3Aopeninf+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
 [pr-help]:
-	https://github.com/search?q=org%3Aopeninf+is%3Apr+is%3Aopen+label%3A%22help+wanted%22
-[A-team bootcamp]: https://ateam-bootcamp.readthedocs.io/en/latest/
+  https://github.com/search?q=org%3Aopeninf+is%3Apr+is%3Aopen+label%3A%22help+wanted%22
+[A-team bootcamp]: https://ateam-bootcamp.readthedocs.io/en/latest
 [Existing Project]: https://github.com/OpenINF/wg-a-team/wiki/Projects
 [Quarter of Contribution]:
-	https://github.com/OpenINF/wg-a-team/wiki/Auto-tools#quarter-of-contribution
-[skills and areas]: https://github.com/OpenINF/wg-a-team/wiki/Auto-tools#skills-and-areas
+  https://github.com/OpenINF/wg-a-team/wiki/Auto-tools#quarter-of-contribution
+[skills and areas]:
+  https://github.com/OpenINF/wg-a-team/wiki/Auto-tools#skills-and-areas
