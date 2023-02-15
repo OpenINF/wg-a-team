@@ -19,7 +19,7 @@ for nostalgic reasons). Although formerly known as the Automation and Tools team
 we sometimes still use the nickname “A-Team”, and you'll see A-Team references
 scattered around our codebases.
 
-We're a group of programmers who develop and support a wide range of services,
+We’re a group of programmers who develop and support a wide range of services,
 tools, and automation that serve the engineering teams at OpenINF, with a
 specific focus on work that increases the productivity of those teams. We are
 part of the [Release and Productivity meta-team][].
