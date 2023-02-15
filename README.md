@@ -152,8 +152,6 @@ If you have questions or want to sign up, please find us on Matrix.
 	https://github.com/search?q=org%3Aopeninf+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
 [pr-help]:
 	https://github.com/search?q=org%3Aopeninf+is%3Apr+is%3Aopen+label%3A%22help+wanted%22
-[pull request]:
-  https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request
 [A-team bootcamp]: https://ateam-bootcamp.readthedocs.io/en/latest/
 [Existing Project]: https://github.com/OpenINF/wg-a-team/wiki/Projects
 [Quarter of Contribution]:
