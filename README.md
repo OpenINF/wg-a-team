@@ -265,15 +265,15 @@ published under [CC BY 4.0].
   https://github.com/OpenINF/wg-a-team/wiki/Auto-tools#skills-and-areas
 
 <!-- Readme template doc links -->
-[cc by icon]: ./doc/img/cc-by_icon.svg "Attribution icon"
-[cc logo icon]: ./doc/img/cc_icon.svg "Creative Commons icon"
-[cc sa icon]: ./doc/img/cc-sa_icon.svg "ShareAlike icon"
+[cc by icon]: ./doc/img/cc-by_icon.svg 'Attribution icon'
+[cc logo icon]: ./doc/img/cc_icon.svg 'Creative Commons icon'
+[cc sa icon]: ./doc/img/cc-sa_icon.svg 'ShareAlike icon'
 [cc by-sa 3.0]:
   https://creativecommons.org/licenses/by-sa/3.0
-  "Creative Commons Attribution-ShareAlike 3.0 Unported license (CC BY-SA 3.0)"
+  'Creative Commons Attribution-ShareAlike 3.0 Unported license (CC BY-SA 3.0)'
 [cc by 4.0]:
   https://creativecommons.org/licenses/by/4.0
-  "Creative Commons Attribution 4.0 International license (CC BY 4.0)"
+  'Creative Commons Attribution 4.0 International license (CC BY 4.0)'
 [deepscan-badge]: https://deepscan.io/api/teams/18447/projects/23889/branches/729809/badge/grade.svg 'DeepScan grade'
 [deepscan-url]: https://deepscan.io/dashboard#view=project&tid=18447&pid=23889&bid=729809 'DeepScan grade'
 [deepsource-badge]: https://deepsource.io/gh/OpenINF/wg-a-team.svg/?label=active+issues&show_trend=true&token=-hDHKwWTwXpLGLvv-7rWktKC
