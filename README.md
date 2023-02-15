@@ -30,7 +30,7 @@ The Engineering Productivity Team is a Swiss Army Knife of coders dedicated
 to improving the quality and productivity of engineering at OpenINF. Working
 with others in a responsive and agile manner, we strive to be a model of open
 development. We create, maintain, and extend a diverse array of sustainable
-tools and systems that make and deliver information on the quality of OpenINF's
+tools and systems that make and deliver information on the quality of OpenINF’s
 products and enhance the impact and effectiveness of the OpenINF community.
 
 ## Connecting with the Team
