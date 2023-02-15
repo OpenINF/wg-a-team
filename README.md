@@ -80,7 +80,7 @@ Welcome to the homepage of the Engineering Productivity
 <abbr title="Working Group">WG</abbr> (called “the A-Team” for nostalgic
 reasons). Although formerly known as the Automation and Tools team, we sometimes
 still use the nickname “A-Team”, and you’ll see A-Team references scattered
-around our codebases. We are proud to now finally be recognized as an
+throughout our codebases. We are proud to now finally be recognized as an
 officially-chartered <abbr title="Working Group">WG</abbr> (Working Group)!
 
 We’re a group of programmers who develop and support a wide range of services,
