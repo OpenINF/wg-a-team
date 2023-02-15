@@ -74,7 +74,7 @@ _The Engineering Productivity team, a.k.a. the A-Team_
 > discussions around the test and automation work that was formerly under
 > Engineering Productivity may continue in our Matrix channel.
 
-# The Engineering Productivity Team
+# The Engineering Productivity <abbr title="Working Group">WG</abbr>
 
 Welcome to the homepage of the Engineering Productivity group (called “the
 A-Team” for nostalgic reasons). Although formerly known as the Automation and
