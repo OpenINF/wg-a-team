@@ -76,7 +76,7 @@ _The Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.a. the 
 
 # The Engineering Productivity <abbr title="Working Group">WG</abbr>
 
-Welcome to the homepage of the Engineering Productivity group (called “the
+Welcome to the homepage of the Engineering Productivity WG (called “the
 A-Team” for nostalgic reasons). Although formerly known as the Automation and
 Tools team, we sometimes still use the nickname “A-Team”, and you’ll see A-Team
 references scattered around our codebases. We are an officially-chartered WG.
