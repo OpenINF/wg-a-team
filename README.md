@@ -125,9 +125,6 @@ See: https://nodejs.github.io/node-core-utils/docs/ncu-team.html#synchronize-fil
 
 <!-- ncu-team-sync end -->
 
-<!-- Many of us blog about the things we work on; you can check
-[our team planet](http://planet.mozilla.org/ateam/) for a feed of these. -->
-
 ## What We Work On
 
 We work on a range of things that will vary from quarter to quarter, but the
