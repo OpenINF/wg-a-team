@@ -119,7 +119,7 @@ Periodic team updates are posted to the \*-tooling mailing list.
 ## Getting Involved
 
 We love contributors! We see community members as one of the keys to our success
-and actively encourage and mentor their contributions. Working on the
+and actively encourage and mentor their contributions. Working on the tooling,
 automation, testing, and build systems at OpenINF is a fantastic introduction to
 OpenINF development. There are two great ways to help: joining an existing
 project or taking on one of our "starter" projects to help you learn your way
