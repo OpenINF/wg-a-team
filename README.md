@@ -149,14 +149,16 @@ our [Release Engineering team][], the [Mozilla TaskCluster team][], and few
 select [owners in the Chromium project][], respectively), although we
 occasionally help with those projects as well.
 
-> **Warning**: We don’t write unit tests run in the test harnesses we own;
-> developers are best suited and responsible for that. We generally don’t write
-> functional tests run in the harnesses we own, although we may help out here
-> from time to time, mainly when this is done in conjunction with developing a
-> new harness. Our interests here are empowering developers to write their own
-> tests, but we sometimes contribute tests here as part of the bootstrapping
-> process. Ultimately, as with unit tests, developers are best suited to writing
-> functional tests and understanding overall test coverage and design.
+> **Warning:** We don’t write unit tests run in the test harnesses we own;
+> developers are best suited for &mdash; and responsible &mdash; for that.
+
+We generally don’t write functional tests run in the harnesses we own, although
+we may help out here from time to time, mainly when this is done in conjunction
+with developing a new harness. Our interests here are empowering developers to
+write tests independently, but we sometimes contribute tests here as part of the
+bootstrapping process. Ultimately, as with unit tests, developers are best
+suited to writing functional tests as they understand overall test coverage and
+design.
 
 ## Meetings
 
