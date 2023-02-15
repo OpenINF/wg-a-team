@@ -114,7 +114,7 @@ out our project request form.
 
 For a list of projects that we own, see Project Central.
 
-Periodic team updates are posted to the \*-tools mailing list.
+Periodic team updates are posted to the \*-tooling mailing list.
 
 ## Getting Involved
 
