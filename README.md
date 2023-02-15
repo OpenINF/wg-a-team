@@ -26,7 +26,7 @@ part of the [Release and Productivity meta-team][].
 
 ## Our Mission
 
-The Engineering Productivity Team is a Swiss Army Knife of engineers dedicated
+The Engineering Productivity Team is a Swiss Army Knife of coders dedicated
 to improving the quality and productivity of engineering at OpenINF. Working
 with others in a responsive and agile manner, we strive to be a model of open
 development. We create, maintain, and extend a diverse array of sustainable
