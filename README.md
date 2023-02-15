@@ -79,7 +79,7 @@ _The Engineering Productivity team, a.k.a. the A-Team_
 Welcome to the homepage of the Engineering Productivity group (called “the
 A-Team” for nostalgic reasons). Although formerly known as the Automation and
 Tools team, we sometimes still use the nickname “A-Team”, and you’ll see A-Team
-references scattered around our codebases.
+references scattered around our codebases. We are an officially-chartered WG.
 
 We’re a group of programmers who develop and support a wide range of services,
 tools, and automation that serve the engineering teams at OpenINF, with a
