@@ -97,9 +97,9 @@ products and enhance the impact and effectiveness of the OpenINF community.
 
 ## Connecting with the Team
 
-We’re a friendly bunch of people who are happy to help you; we want to hear
-about your ideas and your problems and what you think we could do to make you
-work more productively.
+We’re a friendly bunch of people happy to help you; we want to hear about your
+ideas and problems. Please let us know what you think we can do to help you work
+more productively.
 
 See our team roster(s) below for a list of folks on “the A-Team”&hellip;
 
