@@ -249,3 +249,19 @@ greatly encourage us.
   https://github.com/OpenINF/wg-a-team/wiki/Auto-tools#quarter-of-contribution
 [skills and areas]:
   https://github.com/OpenINF/wg-a-team/wiki/Auto-tools#skills-and-areas
+
+<!-- Readme template doc links -->
+
+[deepscan-badge]: https://deepscan.io/api/teams/18447/projects/23889/branches/729809/badge/grade.svg 'DeepScan grade'
+[deepscan-url]: https://deepscan.io/dashboard#view=project&tid=18447&pid=23889&bid=729809 'DeepScan grade'
+[deepsource-badge]: https://deepsource.io/gh/OpenINF/wg-a-team.svg/?label=active+issues&show_trend=true&token=-hDHKwWTwXpLGLvv-7rWktKC
+[deepsource-url]: https://deepsource.io/gh/OpenINF/wg-a-team/?ref=repository-badge 'Active Issues: DeepSource'
+[conventional-commits-badge]: https://img.shields.io/badge/commit%20style-Conventional-%23fa6673?logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAzMCI+PHBhdGggc3R5bGU9ImZpbGw6ICNGRkYiIGQ9Ik0xNSwyQTEzLDEzLDAsMSwxLDIsMTUsMTMsMTMsMCwwLDEsMTUsMm0wLTJBMTUsMTUsMCwxLDAsMzAsMTUsMTUsMTUsMCwwLDAsMTUsMFoiLz48L3N2Zz4K 'Commit Style: Conventional Commits'
+[conventional-commits-url]: https://www.conventionalcommits.org 'Commit Style: Conventional Commits'
+[give it a star ⭐️]: https://github.com/OpenINF/openinf-util-text/stargazers
+[license-badge--shields]: https://img.shields.io/badge/license-CC_BY_4.0-blue.svg?logo=github 'License: CC-BY-4.0'
+[license-badge-url]: https://spdx.org/licenses/CC-BY-4.0.html 'License: CC BY 4.0'
+[matrix-badge--shields]: https://img.shields.io/badge/matrix-join%20chat-%2346BC99?logo=matrix 'Chat on Matrix'
+[matrix-url]: https://matrix.to/#/#openinf:matrix.org 'You&apos;re invited to talk on Matrix'
+[prettier-badge]: https://img.shields.io/badge/code_style-Prettier-ff69b4.svg?logo=prettier 'Code Style: Prettier'
+[prettier-url]: https://prettier.io/playground 'Code Style: Prettier'
