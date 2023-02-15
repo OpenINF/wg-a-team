@@ -144,7 +144,7 @@ lists below represent the general scope of our activities.
 ## What We Do Not Work On
 
 We don’t own [asbuild][], [TaskCluster][], or [depot_tools][] (those belong to
-[our Release Engineering team][], [the Mozilla TaskCluster team][], and few
+our [Release Engineering team][], [the Mozilla TaskCluster team][], and few
 select [owners in the Chromium project][], respectively), although we
 occasionally help with those projects as well.
 
