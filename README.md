@@ -247,6 +247,7 @@ greatly encourage us.
 [Existing Project]: https://github.com/OpenINF/wg-a-team/wiki/Projects
 [Quarter of Contribution]:
   https://github.com/OpenINF/wg-a-team/wiki/Auto-tools#quarter-of-contribution
+[Release and Productivity meta-team]: https://github.com/OpenINF/wg-release-n-productiv
 [skills and areas]:
   https://github.com/OpenINF/wg-a-team/wiki/Auto-tools#skills-and-areas
 
