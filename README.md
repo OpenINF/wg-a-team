@@ -233,6 +233,16 @@ greatly encourage us.
   <img alt="The OpenINF logo" height="32px" width="32px" src="https://raw.githubusercontent.com/openinf/openinf.github.io/live/logo.svg?sanitize=true" />
 </a>
 
+
+<!-- Footer -->
+
+![CC logo icon] ![CC BY icon] ![CC SA icon] Portions of this document are
+derived from work created and [shared by Mozilla][moz-policies] and used
+according to terms described in [CC BY-SA 3.0].
+
+![CC logo icon] ![CC BY icon] Except as otherwise noted, this content is
+published under [CC BY 4.0].
+
 </div>
 
 [**@OpenINF**]: https://github.com/OpenINF
