@@ -1,0 +1,21 @@
+version = 1
+
+[[analyzers]]
+name = "test-coverage"
+enabled = false
+
+[[analyzers]]
+name = "shell"
+enabled = true
+
+[[analyzers]]
+name = "secrets"
+enabled = true
+
+[[analyzers]]
+name = "javascript"
+enabled = false
+
+[[transformers]]
+name = "prettier"
+enabled = false
