@@ -109,7 +109,7 @@ please join us!
 ## Goals and Projects
 
 We set and deliver quarterly goals, which is usually an excellent place to see
-what we're up to. If you’d like us to incorporate some work into our plans, fill
+what we’re up to. If you’d like us to incorporate some work into our plans, fill
 out our project request form.
 
 For a list of projects that we own, see Project Central.
