@@ -206,7 +206,7 @@ around.
 - Check out the [skills and areas][] of the team to see how you can fit in and
   help out!
 
-If you have questions or want to sign up, please find us on Matrix.
+If you have questions or want to sign up, please find us on Matrix or Twitter.
 
 <br /><br />
 
