@@ -76,10 +76,12 @@ _The Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.a. the 
 
 # The Engineering Productivity <abbr title="Working Group">WG</abbr>
 
-Welcome to the homepage of the Engineering Productivity WG (called “the
-A-Team” for nostalgic reasons). Although formerly known as the Automation and
-Tools team, we sometimes still use the nickname “A-Team”, and you’ll see A-Team
-references scattered around our codebases. We are an officially-chartered WG.
+Welcome to the homepage of the Engineering Productivity
+<abbr title="Working Group">WG</abbr> (called “the A-Team” for nostalgic
+reasons). Although formerly known as the Automation and Tools team, we sometimes
+still use the nickname “A-Team”, and you’ll see A-Team references scattered
+around our codebases. We are proud to now finally be recognized as an
+officially-chartered <abbr title="Working Group">WG</abbr> (Working Group).
 
 We’re a group of programmers who develop and support a wide range of services,
 tools, and automation that serve the engineering teams at OpenINF, with a
@@ -88,12 +90,13 @@ part of the [Release and Productivity meta-team][].
 
 ## Our Mission
 
-The Engineering Productivity WG is a Swiss Army Knife of coders dedicated to
-improving the quality and productivity of engineering at OpenINF. Working with
-others in a responsive and agile manner, we strive to be a model of open
-development. We create, maintain, and extend a diverse array of sustainable
-tools and systems that derive and deliver information on the quality of OpenINF’s
-products and enhance the impact and effectiveness of the OpenINF community.
+The Engineering Productivity <abbr title="Working Group">WG</abbr> is a Swiss
+Army Knife of coders dedicated to improving the quality and productivity of
+engineering at OpenINF. Working with others in a responsive and agile manner, we
+strive to be a model of open development. We create, maintain, and extend a
+diverse array of sustainable tools and systems that derive and deliver
+information on the quality of OpenINF’s products and enhance the impact and
+effectiveness of the OpenINF community.
 
 ## Connecting with the Team
 
