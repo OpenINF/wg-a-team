@@ -57,6 +57,8 @@ tools, and automation that serve the engineering teams at OpenINF, with a
 specific focus on work that increases the productivity of those teams. We are
 part of the [Release and Productivity meta-team][].
 
+<br />
+
 ## Our Mission
 
 The Engineering Productivity <abbr title="Working Group">WG</abbr> is a Swiss
@@ -66,6 +68,8 @@ strive to be a model of open development. We create, maintain, and extend a
 diverse array of sustainable tools and systems that derive and deliver
 information on the quality of OpenINF’s products and enhance the impact and
 effectiveness of the OpenINF community.
+
+<br />
 
 ## Connecting with the Team
 
@@ -82,6 +86,8 @@ comment blocks below with a list of members under the specified team.
 See: https://nodejs.github.io/node-core-utils/docs/ncu-team.html#synchronize-files-with-special-blocks
 -->
 
+<br />
+
 ### A-Team Collaborator Roster
 
 <!-- ncu-team-sync.team(OpenINF/wg-a-team) -->
@@ -95,6 +101,8 @@ See: https://nodejs.github.io/node-core-utils/docs/ncu-team.html#synchronize-fil
 
 <!-- ncu-team-sync end -->
 
+<br />
+
 ## What We Work On
 
 We work on a range of things that will vary from quarter to quarter, but the
@@ -104,6 +112,8 @@ lists below represent the general scope of our activities.
 - **Automation:** [web-platform-tests][], CI integration (buildbot/[Taskcluster][]),
 		W3C WebDriver Specification, new test harnesses as needed
 - **Tools:** [mach][], GitHub Actions, code coverage
+
+<br />
 
 ## What We Do Not Work On
 
@@ -123,12 +133,16 @@ bootstrapping process. Ultimately, as with unit tests, developers are best
 suited to writing functional tests as they understand overall test coverage and
 design.
 
+<br />
+
 ## Meetings
 
 We have a fortnightly meeting every other Tuesday at 12am US Pacific Time. We
 typically discuss status, and new projects, have demonstrations of the latest
 tools & features, and sometimes even engage in bikeshedding. All are welcome;
 please join us!
+
+<br />
 
 ## Goals and Projects
 
@@ -139,6 +153,8 @@ out our project request form.
 For a list of projects we own, see the [Project Central wiki page][].
 
 Periodic team updates are posted to the [`openinf-auto-tooling` mailing list][].
+
+<br />
 
 ## Getting Involved
 
