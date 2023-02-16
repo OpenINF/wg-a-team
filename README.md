@@ -46,7 +46,10 @@ Welcome to the homepage of the Engineering Productivity
 reasons). Although previously formally known as the Automation and Tools team, we often
 still use the nickname “A-Team”, and you’ll see A-Team references scattered
 throughout our codebases. We are proud to now finally be recognized as an
-officially-chartered <abbr title="Working Group">WG</abbr> (Working Group)!
+officially-chartered <abbr title="Working Group">WG</abbr> (Working Group), we still
+prefer the “A-Team” nickname from our humble beginnings. Please preserve all instances
+of this esoteric usage that you may find while spelunking in our codebases by leaving
+them as-is and untouched.
 
 We’re a group of programmers who develop and support a wide range of services,
 tools, and automation that serve the engineering teams at OpenINF, with a
