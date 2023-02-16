@@ -173,13 +173,22 @@ If you have questions or want to sign up, please find us on Matrix or Twitter.
 
 ## Show Your Support
 
-<!-- Give a ⭐️ if this project helped you! -->
+<br />
 
-If you like the project or want to bookmark it, [give it a star ⭐️]; it will
-greatly encourage us.
+If you like the project or want to bookmark it &mdash; [give it a star ⭐️]
+&mdash; it will greatly encourage us.
 
 <br /><br />
 
+![CC logo icon] ![CC BY icon] ![CC SA icon] Portions of this document are
+adapted from work created &amp; [shared by Mozilla][moz-policies], but used
+according to terms described in [CC BY-SA 3.0].
+
+![CC logo icon] ![CC BY icon] Except as otherwise noted, this content is
+published under [CC BY 4.0].
+
+<br />
+  
 &copy; The OpenINF Authors
 
 <br />
@@ -187,13 +196,6 @@ greatly encourage us.
 <a title="The OpenINF website" href="https://open.inf.is" rel="author">
   <img alt="The OpenINF logo" height="32px" width="32px" src="https://raw.githubusercontent.com/openinf/openinf.github.io/live/logo.svg?sanitize=true" />
 </a>
-
-![CC logo icon] ![CC BY icon] ![CC SA icon] Portions of this document are
-derived from work created and [shared by Mozilla][moz-policies] and used
-according to terms described in [CC BY-SA 3.0].
-
-![CC logo icon] ![CC BY icon] Except as otherwise noted, this content is
-published under [CC BY 4.0].
 
 </div>
 
