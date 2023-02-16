@@ -38,6 +38,8 @@ _The Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.a. the 
 > discussions around the test and automation work that was formerly under
 > Engineering Productivity may continue in our Matrix channel.
 
+<br />
+
 # The Engineering Productivity <abbr title="Working Group">WG</abbr>
 
 Welcome to the homepage of the Engineering Productivity
@@ -175,19 +177,21 @@ If you have questions or want to sign up, please find us on Matrix or Twitter.
 
 <br />
 
-If you like this project (or want to bookmark it) &mdash; [give it a star ⭐️]
-&mdash; it will greatly encourage us.
+If you like this project (or want to bookmark it) &mdash;<br />
+&mdash; [give it a star ⭐️] &mdash; it will greatly encourage us.
 
 <br /><br /><br />
 
-![CC logo icon] ![CC BY icon] ![CC SA icon] Portions of this document are
-adapted from work created &amp; [shared by Mozilla][moz-policies], and used
-according to terms described in [CC BY-SA 3.0].
+![CC logo icon] ![CC BY icon] ![CC SA icon] Portions of this document are<br />
+adapted from work created &amp; [shared by Mozilla][moz-policies], and<br />
+used according to terms described in [CC BY-SA 3.0].
 
-![CC logo icon] ![CC BY icon] Except as otherwise noted, this content is
+<br />
+
+![CC logo icon] ![CC BY icon] Except as otherwise noted, this content is<br />
 published under [CC BY 4.0].
 
-<br /><br /><br />
+<br />
   
 &copy; The OpenINF Authors
 
