@@ -32,10 +32,9 @@ _The Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.a. the 
 
 ---
 
-> **Note**
-> As of 2023-02-14, _the Engineering Productivity team, a.k.a. the A-Team_,
-> is no longer a discrete team. Its operations are split between the new
-> Product Integrity WG meta-team and Engineering Operations. For now, many
+> **Note**: As of 2023-02-14, _the Engineering Productivity team, a.k.a. the
+> A-Team_, is no longer a discrete team. Its operations are split between the
+> new Product Integrity WG meta-team and Engineering Operations. For now, many
 > discussions around the test and automation work that was formerly under
 > Engineering Productivity may continue in our Matrix channel.
 
@@ -110,7 +109,7 @@ our [Release Engineering team][], the [Mozilla TaskCluster team][], and few
 select [owners in the Chromium project][], respectively), although we
 occasionally help with those projects as well.
 
-> **Warning:** We don’t write unit tests run in the test harnesses we own;
+> **Warning**: We don’t write unit tests run in the test harnesses we own;
 > developers are best suited for &mdash; and responsible &mdash; for that.
 
 We generally don’t write functional tests run in the harnesses we own, although
