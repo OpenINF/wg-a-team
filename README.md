@@ -222,6 +222,7 @@ published under [CC BY 4.0].
 [Release and Productivity meta-team]: https://github.com/OpenINF/wg-release-n-productiv
 [skills and areas]:
   https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#skills-and-areas
+[web-platform-tests]: https://firefox-source-docs.mozilla.org/web-platform/index.html
 
 <!-- Readme template doc links -->
 [cc by icon]: ./doc/img/cc-by_icon.svg 'Attribution icon'
