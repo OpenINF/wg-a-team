@@ -176,7 +176,7 @@ If you have questions or want to sign up, please find us on Matrix or Twitter.
 
 <br />
 
-⭐️ If you like this project (or want to bookmark it) &mdash; [give it a star ⭐️]
+If you like this project (or want to bookmark it) &mdash; [give it a star ⭐️]
 &mdash; it will greatly encourage us.
 
 <br />
