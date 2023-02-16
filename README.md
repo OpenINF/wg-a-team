@@ -99,7 +99,8 @@ We work on a range of things that will vary from quarter to quarter, but the
 lists below represent the general scope of our activities.
 
 - **Services:** Autoland, Treeherder/Perfherder, TestInformant
-- **Automation:** [web-platform-tests][], CI integration (buildbot/[TaskCluster][]), W3C WebDriver Specification, new test harnesses as needed
+- **Automation:** [web-platform-tests][], CI integration (buildbot/[TaskCluster][]),
+		W3C WebDriver Specification, new test harnesses as needed
 - **Tools:** [mach][], GitHub Actions, code coverage
 
 ## What We Do Not Work On
@@ -221,6 +222,7 @@ published under [CC BY 4.0].
 [Quarter of Contribution]:
   https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#quarter-of-contribution
 [Release and Productivity meta-team]: https://github.com/OpenINF/wg-release-n-productiv
+[Release Engineering team]: https://github.com/OpenINF/wg-release-n-productiv
 [skills and areas]:
   https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#skills-and-areas
 [web-platform-tests]: https://firefox-source-docs.mozilla.org/web-platform/index.html
