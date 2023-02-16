@@ -146,8 +146,6 @@ OpenINF development. There are two great ways to help: joining an existing
 project or taking on one of our _starter_ projects to help you learn your way
 around.
 
-- [A-team bootcamp][]&#xFF1A;This covers the basics of getting started as an
-  A-Team contributor
 - [Quarter of Contribution][]&#xFF1A;Longer-running, scoped contributing
   opportunities with definite goals, mentors, and timelines
 - [Existing Project][]&#xFF1A;Look over our [projects][] list and see if there
