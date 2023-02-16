@@ -99,14 +99,14 @@ We work on a range of things that will vary from quarter to quarter, but the
 lists below represent the general scope of our activities.
 
 - **Services:** Autoland, Treeherder/Perfherder, TestInformant
-- **Automation:** [web-platform-tests][], CI integration (buildbot/[TaskCluster][]),
+- **Automation:** [web-platform-tests][], CI integration (buildbot/[Taskcluster][]),
 		W3C WebDriver Specification, new test harnesses as needed
 - **Tools:** [mach][], GitHub Actions, code coverage
 
 ## What We Do Not Work On
 
-We don’t own [asbuild][], [TaskCluster][], or [depot_tools][] (those belong to
-our Release Engineering team, the Mozilla TaskCluster team, and a few select
+We don’t own [asbuild][], [Taskcluster][], or [depot_tools][] (those belong to
+our Release Engineering team, the Mozilla Taskcluster team, and a few select
 owners in the Chromium project, respectively), although we occasionally help
 with those projects as well.
 
@@ -205,7 +205,7 @@ published under [CC BY 4.0].
 [asbuild]: https://github.com/OpenINF/openinf-asbuild
 [depot_tools]: https://commondatastorage.googleapis.com/chrome-infra-docs/flat/depot_tools/docs/html/depot_tools.html
 [mach]: https://firefox-source-docs.mozilla.org/mach/index.html
-[TaskCluster]: https://taskcluster.net
+[Taskcluster]: https://taskcluster.net
 
 <!-- Misc. doc links -->
 [i-gfi]:
