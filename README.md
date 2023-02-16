@@ -223,6 +223,7 @@ published under [CC BY 4.0].
   https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#quarter-of-contribution
 [Release Engineering team]: https://github.com/OpenINF/wg-release-n-productiv
 [Release and Productivity meta-team]: https://github.com/OpenINF/wg-release-n-productiv
+ [Release and Productivity meta-team][].
 [Release Engineering team]: https://github.com/OpenINF/wg-release-n-productiv
 [skills and areas]:
   https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#skills-and-areas
