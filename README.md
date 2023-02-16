@@ -153,8 +153,8 @@ taking on one of our _starter_ projects to help rev up to speed.
 - [Existing Project][]&#xFF1A;Look over our [projects][] list and see if there
   is anything that you’d like to help with
 - Good First Issues&#xFF1A;want a bug to try out? Find a few issues labeled
-  https://github.com/OpenINF/.github/labels/help%20wanted or
-  https://github.com/OpenINF/.github/labels/good%20first%20issue as have been
+  https://github.com/OpenINF/wg-a-team/labels/help%20wanted or
+  https://github.com/OpenINF/wg-a-team/labels/good%20first%20issue as have been
   identified as desirable for community contribution. Feel free to work on
   <abbr title="Good First Issues">GFIs</abbr> even if not your first issue.
   - List of [all issues labeled _good first issue_][i-gfi]
