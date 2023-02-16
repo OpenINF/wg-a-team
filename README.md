@@ -106,8 +106,8 @@ lists below represent the general scope of our activities.
 ## What We Do Not Work On
 
 We don’t own [asbuild][], [TaskCluster][], or [depot_tools][] (those belong to
-our [Release Engineering team][], the [Mozilla TaskCluster team][], and few
-select [owners in the Chromium project][], respectively), although we
+our Release Engineering team, the Mozilla TaskCluster team, and few
+select [owners in the Chromium project], respectively), although we
 occasionally help with those projects as well.
 
 > **Warning**: We don’t write unit tests run in the test harnesses we own;
@@ -176,7 +176,7 @@ If you have questions or want to sign up, please find us on Matrix or Twitter.
 
 <br />
 
-If you like the project or want to bookmark it &mdash; [give it a star ⭐️]
+⭐️ If you like this project (or want to bookmark it) &mdash; [give it a star ⭐️]
 &mdash; it will greatly encourage us.
 
 <br /><br />
@@ -221,6 +221,7 @@ published under [CC BY 4.0].
 [Existing Project]: https://github.com/OpenINF/wg-a-team/wiki/Project-Central
 [Quarter of Contribution]:
   https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#quarter-of-contribution
+[Release Engineering team]: https://github.com/OpenINF/wg-release-n-productiv
 [Release and Productivity meta-team]: https://github.com/OpenINF/wg-release-n-productiv
 [Release Engineering team]: https://github.com/OpenINF/wg-release-n-productiv
 [skills and areas]:
