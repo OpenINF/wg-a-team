@@ -35,8 +35,8 @@ line apps that come bundled with Node.js (available thru Corepack).
 
 If you’re already good to go (have the correct runtime version installed and
 feeling courageous), running the following command line in a shell with a
-working directory located at the root of this project’s source tree, all
-of the below steps may be accomplished in one go.
+working directory located at the root of this project’s source tree may
+accomplished all of the below steps in one go.
 
 ```console
 npm i; npm t; npm start;
