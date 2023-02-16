@@ -224,7 +224,7 @@ published under [CC BY 4.0].
 [pr-help]:
   https://github.com/search?q=org%3Aopeninf+is%3Apr+is%3Aopen+label%3A%22help+wanted%22
 [A-team bootcamp]: https://ateam-bootcamp.readthedocs.io/en/latest
-[Existing Project]: https://github.com/OpenINF/wg-a-team/wiki/Projects
+[Existing Project]: https://github.com/OpenINF/wg-a-team/wiki/Project-Central
 [Quarter of Contribution]:
   https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#quarter-of-contribution
 [Release and Productivity meta-team]: https://github.com/OpenINF/wg-release-n-productiv
