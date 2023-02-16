@@ -1,0 +1,10 @@
+{
+  "name": "wg-a-team",
+  "version": "1.0.0-development",
+  "description": "The homepage of the Engineering Productivity WG",
+  "main": "lib/index.js",
+  "repository": "https://github.com/OpenINF/wg-a-team.git",
+  "author": "Derek Lewis <DerekNonGeneric@inf.is>",
+  "license": "CC-BY-4.0",
+  "private": true
+}
