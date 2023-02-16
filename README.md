@@ -99,7 +99,7 @@ We work on a range of things that will vary from quarter to quarter, but the
 lists below represent the general scope of our activities.
 
 - **Services:** Autoland, Treeherder/Perfherder, TestInformant
-- **Automation:** web-platform-tests, MozBench, CI integration (buildbot/TaskCluster), W3C WebDriver Specification, new test harnesses as needed
+- **Automation:** [web-platform-tests][], CI integration (buildbot/[TaskCluster][]), W3C WebDriver Specification, new test harnesses as needed
 - **Tools:** [mach][], GitHub Actions, code coverage
 
 ## What We Do Not Work On
