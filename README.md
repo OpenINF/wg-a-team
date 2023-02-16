@@ -219,6 +219,7 @@ published under [CC BY 4.0].
   https://github.com/search?q=org%3Aopeninf+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [i-help]:
   https://github.com/search?q=org%3Aopeninf+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
+[`openinf-auto-tooling` mailing list]: https://groups.google.com/g/openinf-auto-tooling
 [pr-help]:
   https://github.com/search?q=org%3Aopeninf+is%3Apr+is%3Aopen+label%3A%22help+wanted%22
 [A-team bootcamp]: https://ateam-bootcamp.readthedocs.io/en/latest
