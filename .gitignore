@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+# node-core-utils config file
+.ncurc
+
+# node-core-utils working directory
+.ncu
+
+
