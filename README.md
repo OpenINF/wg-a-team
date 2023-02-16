@@ -85,7 +85,7 @@ See: https://nodejs.github.io/node-core-utils/docs/ncu-team.html#synchronize-fil
 <!-- ncu-team-sync.team(OpenINF/wg-a-team) -->
 
 * [@DerekNonGeneric](https://github.com/DerekNonGeneric) - Derek Lewis
-* [@emmitrovic](https://github.com/emmitrovic)
+* [@emmitrovic](https://github.com/emmitrovic) - Milena Mitrovic
 * [@jorgebucaran](https://github.com/jorgebucaran) - Jorge Bucaran
 * [@shellscape](https://github.com/shellscape) - Andrew Powell
 * [@smorimoto](https://github.com/smorimoto) - Sora Morimoto
