@@ -203,8 +203,9 @@ published under [CC BY 4.0].
 
 <!-- 3P Tools -->
 [asbuild]: https://github.com/OpenINF/openinf-asbuild
-[TaskCluster]: https://taskcluster.net
 [depot_tools]: https://commondatastorage.googleapis.com/chrome-infra-docs/flat/depot_tools/docs/html/depot_tools.html
+[mach]: https://firefox-source-docs.mozilla.org/mach/index.html
+[TaskCluster]: https://taskcluster.net
 
 <!-- Misc. doc links -->
 [i-gfi]:
