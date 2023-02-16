@@ -22,7 +22,9 @@
 - [ ] v12：Erbium (Er)
 - [x] v14：Fermium (Fm)
 - [x] v16：Gallium (Ga)
-- [x] v18：Hydrogen (H) <!-- TODO
+- [x] v18：Hydrogen (H)
+
+<!-- TODO
 - [x] v20: Iron (Fe) -->
 
 	</div>
