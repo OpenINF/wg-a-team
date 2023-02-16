@@ -16,41 +16,6 @@ _The Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.a. the 
 
 </div>
 
-<br />
-
-<details id="platform--node-js-lts">
-	<summary>
-		<a
-			href="#platform--node-js-lts"
-			title="Platform: Node.js LTS"
-		>
-			<img
-				src="https://img.shields.io/badge/Node.js-LTS-black?logo=Node.js&logoColor=lightgreen&color=2a2a2a&labelColor=black"
-				alt="Platform: Node.js LTS"
-			/>
-		</a>
-	</summary>
-	<div align="left"><br />
-		<a
-			target="_blank"
-			title="Node.js release schedule"
-			href="https://github.com/nodejs/release#release-schedule"
-		>
-			<strong>Supported Node.js Environments</strong>
-		</a><br /><br />
-
-- [ ] v4：Argon (Ar)
-- [ ] v6：Boron (B)
-- [ ] v8：Carbon (C)
-- [ ] v10：Dubnium (Db)
-- [ ] v12：Erbium (Er)
-- [x] v14：Fermium (Fm)
-- [x] v16：Gallium (Ga)
-- [x] v18：Hydrogen (H)
-<!-- TODO
-- [x] v20: Iron (Fe) -->
-
-</div></details>
 
 <br />
 
@@ -78,10 +43,13 @@ _The Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.a. the 
 
 Welcome to the homepage of the Engineering Productivity
 <abbr title="Working Group">WG</abbr> (called “the A-Team” for nostalgic
-reasons). Although formerly known as the Automation and Tools team, we sometimes
-still use the nickname “A-Team”, and you’ll see A-Team references scattered
-throughout our codebases. We are proud to now finally be recognized as an
-officially-chartered <abbr title="Working Group">WG</abbr> (Working Group)!
+reasons). Although previously formally known as the Automation and Tools team,
+we often still use the nickname “A-Team”, and you’ll see A-Team references
+scattered about throughout our codebases. Although we are proud to now finally
+be recognized as an officially-chartered <abbr title="Working Group">WG</abbr>
+(Working Group), we still prefer the “A-Team” nickname from our humble
+beginnings. Please preserve all instances of this esoteric usage that you may
+find while spelunking in our codebases by leaving them as-is and untouched.
 
 We’re a group of programmers who develop and support a wide range of services,
 tools, and automation that serve the engineering teams at OpenINF, with a
@@ -113,7 +81,7 @@ comment blocks below with a list of members under the specified team.
 See: https://nodejs.github.io/node-core-utils/docs/ncu-team.html#synchronize-files-with-special-blocks
 -->
 
-### Collaborators in the A-Team
+### A-Team Collaborator Roster
 
 <!-- ncu-team-sync.team(OpenINF/wg-a-team) -->
 
@@ -125,25 +93,14 @@ See: https://nodejs.github.io/node-core-utils/docs/ncu-team.html#synchronize-fil
 
 <!-- ncu-team-sync end -->
 
-<!-- Many of us blog about the things we work on; you can check
-[our team planet](http://planet.mozilla.org/ateam/) for a feed of these. -->
-
 ## What We Work On
 
 We work on a range of things that will vary from quarter to quarter, but the
 lists below represent the general scope of our activities.
 
-<!-- (!) NOTE: These may need to be replaced.
-- **Services:** Bugzilla, MozReview, Autoland, Treeherder/Perfherder,
-  OrangeFactor, hg.mozilla.org, git.mozilla.org, Pulse, ActiveData, Bugzilla ES,
-  TestInformant, sheriffing of the tree
-- **Automation:** Marionette, mochitest, xpcshell, reftest, web-platform-tests,
-  Talos, MozBench, Robocop, Autophone, Bughunter, media and update tests for
-  Firefox, GoFaster, CI integration (buildbot/TaskCluster), W3C WebDriver
-  Specification, new test harnesses as needed
-- **Tools:** mach, mozbase, mozregression, mozdownload, mozharness, mozci, SETA,
-  code coverage
--->
+- **Services:** Autoland, Treeherder/Perfherder, TestInformant
+- **Automation:** [web-platform-tests][], CI integration (buildbot/[TaskCluster][]), W3C WebDriver Specification, new test harnesses as needed
+- **Tools:** [mach][], GitHub Actions, code coverage
 
 ## What We Do Not Work On
 
@@ -176,9 +133,9 @@ We set and deliver quarterly goals, which is usually an excellent place to see
 what we’re up to. If you’d like us to incorporate some work into our plans, fill
 out our project request form.
 
-For a list of projects that we own, see Project Central.
+For a list of projects we own, see the [Project Central wiki page][].
 
-Periodic team updates are posted to the \*-auto-tooling mailing list.
+Periodic team updates are posted to the [`openinf-auto-tooling` mailing list][].
 
 ## Getting Involved
 
@@ -189,8 +146,6 @@ OpenINF development. There are two great ways to help: joining an existing
 project or taking on one of our _starter_ projects to help you learn your way
 around.
 
-- [A-team bootcamp][]&#xFF1A;This covers the basics of getting started as an
-  A-Team contributor
 - [Quarter of Contribution][]&#xFF1A;Longer-running, scoped contributing
   opportunities with definite goals, mentors, and timelines
 - [Existing Project][]&#xFF1A;Look over our [projects][] list and see if there
@@ -246,34 +201,38 @@ published under [CC BY 4.0].
 
 <!-- 3P Tools -->
 [asbuild]: https://github.com/OpenINF/openinf-asbuild
-[TaskCluster]: https://taskcluster.net
 [depot_tools]: https://commondatastorage.googleapis.com/chrome-infra-docs/flat/depot_tools/docs/html/depot_tools.html
+[mach]: https://firefox-source-docs.mozilla.org/mach/index.html
+[TaskCluster]: https://taskcluster.net
 
 <!-- Misc. doc links -->
 [i-gfi]:
   https://github.com/search?q=org%3Aopeninf+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [i-help]:
   https://github.com/search?q=org%3Aopeninf+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
+[`openinf-auto-tooling` mailing list]: https://groups.google.com/g/openinf-auto-tooling
+[Project Central wiki page]: https://github.com/OpenINF/wg-a-team/wiki/Project-Central
+[projects]: https://github.com/OpenINF/wg-a-team/wiki/Project-Central
 [pr-help]:
   https://github.com/search?q=org%3Aopeninf+is%3Apr+is%3Aopen+label%3A%22help+wanted%22
-[A-team bootcamp]: https://ateam-bootcamp.readthedocs.io/en/latest
-[Existing Project]: https://github.com/OpenINF/wg-a-team/wiki/Projects
+[Existing Project]: https://github.com/OpenINF/wg-a-team/wiki/Project-Central
 [Quarter of Contribution]:
-  https://github.com/OpenINF/wg-a-team/wiki/Auto-tools#quarter-of-contribution
+  https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#quarter-of-contribution
 [Release and Productivity meta-team]: https://github.com/OpenINF/wg-release-n-productiv
 [skills and areas]:
-  https://github.com/OpenINF/wg-a-team/wiki/Auto-tools#skills-and-areas
+  https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#skills-and-areas
+[web-platform-tests]: https://firefox-source-docs.mozilla.org/web-platform/index.html
 
 <!-- Readme template doc links -->
-[cc by icon]: ./doc/img/cc-by_icon.svg "Attribution icon"
-[cc logo icon]: ./doc/img/cc_icon.svg "Creative Commons icon"
-[cc sa icon]: ./doc/img/cc-sa_icon.svg "ShareAlike icon"
+[cc by icon]: ./doc/img/cc-by_icon.svg 'Attribution icon'
+[cc logo icon]: ./doc/img/cc_icon.svg 'Creative Commons icon'
+[cc sa icon]: ./doc/img/cc-sa_icon.svg 'ShareAlike icon'
 [cc by-sa 3.0]:
   https://creativecommons.org/licenses/by-sa/3.0
-  "Creative Commons Attribution-ShareAlike 3.0 Unported license (CC BY-SA 3.0)"
+  'Creative Commons Attribution-ShareAlike 3.0 Unported license (CC BY-SA 3.0)'
 [cc by 4.0]:
   https://creativecommons.org/licenses/by/4.0
-  "Creative Commons Attribution 4.0 International license (CC BY 4.0)"
+  'Creative Commons Attribution 4.0 International license (CC BY 4.0)'
 [deepscan-badge]: https://deepscan.io/api/teams/18447/projects/23889/branches/729809/badge/grade.svg 'DeepScan grade'
 [deepscan-url]: https://deepscan.io/dashboard#view=project&tid=18447&pid=23889&bid=729809 'DeepScan grade'
 [deepsource-badge]: https://deepsource.io/gh/OpenINF/wg-a-team.svg/?label=active+issues&show_trend=true&token=-hDHKwWTwXpLGLvv-7rWktKC
@@ -287,6 +246,6 @@ published under [CC BY 4.0].
 [matrix-url]: https://matrix.to/#/#openinf:matrix.org 'You&apos;re invited to talk on Matrix'
 [moz-policies]:
   https://www.mozilla.org/en-US/foundation/licensing/
-  "Mozilla Licensing Policies"
+  'Mozilla Licensing Policies'
 [prettier-badge]: https://img.shields.io/badge/code_style-Prettier-ff69b4.svg?logo=prettier 'Code Style: Prettier'
 [prettier-url]: https://prettier.io/playground 'Code Style: Prettier'
