@@ -141,7 +141,7 @@ We set and deliver quarterly goals, which is usually an excellent place to see
 what we’re up to. If you’d like us to incorporate some work into our plans, fill
 out our project request form.
 
-For a list of projects that we own, see Project Central.
+For a list of projects we own, see the [Project Central wiki page][].
 
 Periodic team updates are posted to the [`openinf-auto-tooling` mailing list][].
 
