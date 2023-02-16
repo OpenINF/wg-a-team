@@ -100,7 +100,7 @@ lists below represent the general scope of our activities.
 
 - **Services:** Autoland, Treeherder/Perfherder, TestInformant
 - **Automation:** web-platform-tests, MozBench, CI integration (buildbot/TaskCluster), W3C WebDriver Specification, new test harnesses as needed
-- **Tools:** mach, GitHub Actions, code coverage
+- **Tools:** [mach][], GitHub Actions, code coverage
 
 ## What We Do Not Work On
 
