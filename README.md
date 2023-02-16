@@ -141,11 +141,10 @@ Periodic team updates are posted to the [`openinf-auto-tooling` mailing list][].
 ## Getting Involved
 
 We love contributors! We see community members as one of the keys to our success
-and actively encourage and mentor their contributions. Working on the tooling,
-automation, testing, and build systems at OpenINF is a fantastic introduction to
-OpenINF development. There are two great ways to help: joining an existing
-project or taking on one of our _starter_ projects to help you learn your way
-around.
+and actively encourage their contributions. Working on the tooling, automation,
+testing, and build systems at OpenINF is a fantastic introduction to OpenINF
+development. There are two great ways to help: joining an existing project or
+taking on one of our _starter_ projects to help rev up to speed.
 
 - [Quarter of Contribution][]&#xFF1A;Longer-running, scoped contributing
   opportunities with definite goals, mentors, and timelines
