@@ -191,7 +191,7 @@ If you like this project (or want to bookmark it) &mdash; [give it a star ⭐️
 <br /><br />
 
 ![CC logo icon] ![CC BY icon] ![CC SA icon] Portions of this document are
-adapted from work created &amp; [shared by Mozilla][moz-policies], but used
+adapted from work created &amp; [shared by Mozilla][moz-policies], and used
 according to terms described in [CC BY-SA 3.0].
 
 ![CC logo icon] ![CC BY icon] Except as otherwise noted, this content is
