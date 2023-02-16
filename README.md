@@ -78,7 +78,7 @@ comment blocks below with a list of members under the specified team.
 See: https://nodejs.github.io/node-core-utils/docs/ncu-team.html#synchronize-files-with-special-blocks
 -->
 
-### Collaborators in the A-Team
+### A-Team Collaborator Roster
 
 <!-- ncu-team-sync.team(OpenINF/wg-a-team) -->
 
