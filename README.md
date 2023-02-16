@@ -179,15 +179,6 @@ If you have questions or want to sign up, please find us on Matrix or Twitter.
 ⭐️ If you like this project (or want to bookmark it) &mdash; [give it a star ⭐️]
 &mdash; it will greatly encourage us.
 
-<br /><br />
-
-![CC logo icon] ![CC BY icon] ![CC SA icon] Portions of this document are
-adapted from work created &amp; [shared by Mozilla][moz-policies], but used
-according to terms described in [CC BY-SA 3.0].
-
-![CC logo icon] ![CC BY icon] Except as otherwise noted, this content is
-published under [CC BY 4.0].
-
 <br />
   
 &copy; The OpenINF Authors
@@ -197,6 +188,15 @@ published under [CC BY 4.0].
 <a title="The OpenINF website" href="https://open.inf.is" rel="author">
   <img alt="The OpenINF logo" height="32px" width="32px" src="https://raw.githubusercontent.com/openinf/openinf.github.io/live/logo.svg?sanitize=true" />
 </a>
+
+<br /><br />
+
+![CC logo icon] ![CC BY icon] ![CC SA icon] Portions of this document are
+adapted from work created &amp; [shared by Mozilla][moz-policies], but used
+according to terms described in [CC BY-SA 3.0].
+
+![CC logo icon] ![CC BY icon] Except as otherwise noted, this content is
+published under [CC BY 4.0].
 
 </div>
 
@@ -223,7 +223,6 @@ published under [CC BY 4.0].
   https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#quarter-of-contribution
 [Release Engineering team]: https://github.com/OpenINF/wg-release-n-productiv
 [Release and Productivity meta-team]: https://github.com/OpenINF/wg-release-n-productiv
- [Release and Productivity meta-team][].
 [Release Engineering team]: https://github.com/OpenINF/wg-release-n-productiv
 [skills and areas]:
   https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#skills-and-areas
