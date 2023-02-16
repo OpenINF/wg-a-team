@@ -98,17 +98,9 @@ See: https://nodejs.github.io/node-core-utils/docs/ncu-team.html#synchronize-fil
 We work on a range of things that will vary from quarter to quarter, but the
 lists below represent the general scope of our activities.
 
-<!-- (!) NOTE: These may need to be replaced.
-- **Services:** Bugzilla, MozReview, Autoland, Treeherder/Perfherder,
-  OrangeFactor, hg.mozilla.org, git.mozilla.org, Pulse, ActiveData, Bugzilla ES,
-  TestInformant, sheriffing of the tree
-- **Automation:** Marionette, mochitest, xpcshell, reftest, web-platform-tests,
-  Talos, MozBench, Robocop, Autophone, Bughunter, media and update tests for
-  Firefox, GoFaster, CI integration (buildbot/TaskCluster), W3C WebDriver
-  Specification, new test harnesses as needed
-- **Tools:** mach, mozbase, mozregression, mozdownload, mozharness, mozci, SETA,
-  code coverage
--->
+- **Services:** Autoland, Treeherder/Perfherder, TestInformant
+- **Automation:** web-platform-tests, MozBench, CI integration (buildbot/TaskCluster), W3C WebDriver Specification, new test harnesses as needed
+- **Tools:** mach, GitHub Actions, code coverage
 
 ## What We Do Not Work On
 
