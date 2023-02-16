@@ -1,6 +1,6 @@
 # Development
 
-If you're feeling courageous, run the following to do everything at once.
+If you’re feeling courageous, run the following to do everything at once.
 
 ```console
 npm i; npm t; npm start;
