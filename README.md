@@ -108,11 +108,21 @@ See: https://nodejs.github.io/node-core-utils/docs/ncu-team.html#synchronize-fil
 We work on a range of things that will vary from quarter to quarter, but the
 lists below represent the general scope of our activities.
 
-- **Services:** Autoland, Treeherder/Perfherder, TestInformant
-- **Automation:** [web-platform-tests][], CI integration (buildbot/[Taskcluster][]),
-		TC39 [`AssertionError` Proposal][] Specification, new test harnesses as needed
-- **Tools:** [mach][], GitHub Actions, code coverage
+<br />
 
+- **Services**:
+	- Autoland
+	- Treeherder/Perfherder
+	- TestInformant
+- **Automation**:
+	- [web-platform-tests][]
+	- CI integration (buildbot/[Taskcluster][]),
+	- JS specification (TC39 [`AssertionError` Proposal][])
+	- new test harnesses as needed
+- **Tools**:
+	- [mach][]
+	- GitHub Actions
+	- code coverage
 <br />
 
 ## What We Do Not Work On
