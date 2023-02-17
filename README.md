@@ -110,7 +110,7 @@ lists below represent the general scope of our activities.
 
 - **Services:** Autoland, Treeherder/Perfherder, TestInformant
 - **Automation:** [web-platform-tests][], CI integration (buildbot/[Taskcluster][]),
-		W3C WebDriver Specification, new test harnesses as needed
+		TC39 [`AssertionError` Proposal][] Specification, new test harnesses as needed
 - **Tools:** [mach][], GitHub Actions, code coverage
 
 <br />
@@ -230,6 +230,7 @@ published under [CC BY 4.0].
 [Taskcluster]: https://taskcluster.net
 
 <!-- Misc. doc links -->
+[`AssertionError` Proposal]: https://github.com/DerekNonGeneric/proposal-assertion-error
 [i-gfi]:
   https://github.com/search?q=org%3Aopeninf+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [i-help]:
