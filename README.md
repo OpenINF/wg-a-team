@@ -7,7 +7,9 @@ Spec: https://github.github.com/gfm
 
 # @OpenINF/wg-a-team
 
-_The Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.a. the A-Team_
+<br />
+
+Home of the Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.a. the A-Team
 
 <br />
 
@@ -16,7 +18,6 @@ _The Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.a. the 
 [!['License: Attribution 4.0 International (CC BY 4.0)'][license-badge--shields]][license-badge-url]
 
 </div>
-
 
 <br />
 
