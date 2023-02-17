@@ -11,6 +11,7 @@ _The Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.a. the 
 
 <br />
 
+!['Project Status: Under construction'][project-status-badge]
 [!['DeepScan grade'][deepscan-badge]][deepscan-url]
 [!['License: Attribution 4.0 International (CC BY 4.0)'][license-badge--shields]][license-badge-url]
 
@@ -277,12 +278,13 @@ published under [CC BY 4.0].
 [conventional-commits-badge]: https://img.shields.io/badge/commit%20style-Conventional-%23fa6673?logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAzMCI+PHBhdGggc3R5bGU9ImZpbGw6ICNGRkYiIGQ9Ik0xNSwyQTEzLDEzLDAsMSwxLDIsMTUsMTMsMTMsMCwwLDEsMTUsMm0wLTJBMTUsMTUsMCwxLDAsMzAsMTUsMTUsMTUsMCwwLDAsMTUsMFoiLz48L3N2Zz4K 'Commit Style: Conventional Commits'
 [conventional-commits-url]: https://www.conventionalcommits.org 'Commit Style: Conventional Commits'
 [give it a star ⭐️]: https://github.com/OpenINF/wg-a-team/stargazers
-[license-badge--shields]: https://img.shields.io/badge/license-CC_BY_4.0-blue.svg?logo=github 'License: CC-BY-4.0'
+[license-badge--shields]: https://img.shields.io/badge/license-CC_BY_4.0-blue.svg?logo=github 'License: CC-BY-4.0 badge'
 [license-badge-url]: https://spdx.org/licenses/CC-BY-4.0.html 'License: CC BY 4.0'
-[matrix-badge--shields]: https://img.shields.io/badge/matrix-join%20chat-%2346BC99?logo=matrix 'Chat on Matrix'
+[matrix-badge--shields]: https://img.shields.io/badge/matrix-join%20chat-%2346BC99?logo=matrix 'Chat on Matrix badge'
 [matrix-url]: https://matrix.to/#/#openinf:matrix.org 'You&apos;re invited to talk on Matrix'
 [moz-policies]:
   https://www.mozilla.org/en-US/foundation/licensing/
   'Mozilla Licensing Policies'
-[prettier-badge]: https://img.shields.io/badge/code_style-Prettier-ff69b4.svg?logo=prettier 'Code Style: Prettier'
+[prettier-badge]: https://img.shields.io/badge/code_style-Prettier-ff69b4.svg?logo=prettier 'Code Style: Prettier badge'
 [prettier-url]: https://prettier.io/playground 'Code Style: Prettier'
+[project-status-badge]: https://img.shields.io/badge/project%20status-under%20construction-orange 'Project Status: Under construction badge'
