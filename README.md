@@ -14,7 +14,6 @@ Home of the Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.
 <br />
 
 !['Project Status: Under construction'][project-status-badge]
-[!['DeepScan grade'][deepscan-badge]][deepscan-url]
 [!['License: Attribution 4.0 International (CC BY 4.0)'][license-badge--shields]][license-badge-url]
 
 </div>
@@ -25,7 +24,6 @@ Home of the Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.
 
 [![Code Style: Prettier][prettier-badge]][prettier-url]
 [![Commit Style: Conventional Commits][conventional-commits-badge]][conventional-commits-url]
-[![Active Issues: DeepSource][deepsource-badge]][deepsource-url]
 [![Chat on Matrix][matrix-badge--shields]][matrix-url]
 
 </div>
@@ -272,10 +270,6 @@ published under [CC BY 4.0].
 [cc by 4.0]:
   https://creativecommons.org/licenses/by/4.0
   'Creative Commons Attribution 4.0 International license (CC BY 4.0)'
-[deepscan-badge]: https://deepscan.io/api/teams/18447/projects/23889/branches/729809/badge/grade.svg 'DeepScan grade'
-[deepscan-url]: https://deepscan.io/dashboard#view=project&tid=18447&pid=23889&bid=729809 'DeepScan grade'
-[deepsource-badge]: https://deepsource.io/gh/OpenINF/wg-a-team.svg/?label=active+issues&show_trend=true&token=-hDHKwWTwXpLGLvv-7rWktKC
-[deepsource-url]: https://deepsource.io/gh/OpenINF/wg-a-team/?ref=repository-badge 'Active Issues: DeepSource'
 [conventional-commits-badge]: https://img.shields.io/badge/commit%20style-Conventional-%23fa6673?logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAzMCI+PHBhdGggc3R5bGU9ImZpbGw6ICNGRkYiIGQ9Ik0xNSwyQTEzLDEzLDAsMSwxLDIsMTUsMTMsMTMsMCwwLDEsMTUsMm0wLTJBMTUsMTUsMCwxLDAsMzAsMTUsMTUsMTUsMCwwLDAsMTUsMFoiLz48L3N2Zz4K 'Commit Style: Conventional Commits'
 [conventional-commits-url]: https://www.conventionalcommits.org 'Commit Style: Conventional Commits'
 [give it a star ⭐️]: https://github.com/OpenINF/wg-a-team/stargazers
